@@ -1,6 +1,6 @@
 Simple example of hot reloading in c
 
-[![Example Image](images/reload.png)](https://example.com)
+[![Example Image](media/reload.png)](https://example.com)
 
 ## Command to watch over file
 ```bash
